@@ -124,8 +124,7 @@ label end_for_right_now:
    
     show eyes
     
-    e "hope you liked it my nibba [name] i will add more and
-       ther might be a big update soon and it will change alot"
+    e "hope you liked it my nibba [name] i will add more"
     
     # This ends the game.
     
